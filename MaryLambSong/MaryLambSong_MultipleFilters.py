@@ -1,3 +1,5 @@
+# Copyright 2021 Melwyn Francis Carlo
+
 import matplotlib.pyplot as plt
 import numpy as np
 import wavio
